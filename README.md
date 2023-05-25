@@ -2,6 +2,8 @@
 
 Coding Exercise for Cato Digital DevOps position using the StarWars API
 
+**Note: The following documentation should be used when the Python project is working. It is currently NOT working. The following is merely for reference and future use.**
+
 ### Prerequisites
 
 To check this code exercise you'll need either Docker (or Podman) installed and set up to build and run Dockerfiles.
